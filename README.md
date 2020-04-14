@@ -6,3 +6,4 @@ But it was good for a little practice early in my learning of node.js.
 
 I got to play with the http, url, and fs modules, create a server, troubleshoot a few issues, and write test scripts to figure out (a) what various user-side actions send in the request data, (b) what various module methods return, and (c) to identify where bugs were occuring.
 
+[![Run on Repl.it](https://repl.it/badge/github/scottBowles/node-simple-informational-site)](https://repl.it/github/scottBowles/node-simple-informational-site)
